@@ -1,0 +1,33 @@
+body { 
+    background: #333;
+    color: #e4e4e4;
+}
+
+.search-input {
+    color: #fff;
+}
+
+.search {
+    background: rgb(39, 39, 39);
+    margin-top: 50px;
+}
+
+.posts {
+    margin-top: 50px;
+}
+
+.posts h2 {
+    margin-bottom: 50px;
+}
+
+input {
+    color: #000;
+}
+
+.toast {
+    background: #9c27b0 ;
+}
+
+.card-title {
+    background: rgba(0, 0, 0, 0.8)
+}

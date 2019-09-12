@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World!",
+      "post_body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut consequat diam quis enim eleifend mollis. Nunc sed mi quis ante efficitur dapibus. Sed faucibus purus at vulputate ultrices. Quisque tincidunt non nibh in pharetra. Nulla et posuere nulla. Phasellus congue consequat neque, non lacinia dolor sagittis et.",
+      "date": "03-08-2019",
+      "img": "https://source.unsplash.com/800x450/?space"
+    },
+    {
+      "id": 2,
+      "title": "Ut Consequat Diam...",
+      "post_body": "Integer elementum mauris facilisis porttitor vulputate. Aliquam vitae tincidunt mauris, at pretium risus. Nunc nisi nisi, elementum id augue ac, tempor gravida magna. Vivamus iaculis at elit sed imperdiet. Proin magna ligula, consequat ac aliquam quis, euismod eget neque.",
+      "date": "04-09-2019",
+      "img": "https://source.unsplash.com/800x451/?space"
+    },
+    {
+      "id": 3,
+      "title": "TEST Nunc Sed Mi Quis ?",
+      "post_body": "TEST Pellentesque ut auctor neque, a ullamcorper nulla. Nunc congue odio ex, ut pharetra libero efficitur ac. In iaculis eu lorem sit amet facilisis. Sed ac finibus urna. Duis id vulputate libero. Sed porta sollicitudin consequat. Ut maximus accumsan aliquet. Etiam tempus faucibus tincidunt.",
+      "img": "https://source.unsplash.com/800x452/?space",
+      "date": "2019-09-12T10:28:00.189Z"
+    }
+  ]
+}
